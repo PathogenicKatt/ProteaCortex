@@ -2,7 +2,9 @@
 _I plan to use some of the skills learned from the EarTech IT internship to build my dream project_ 
 # SIEM + AI Cybersecurity Dashboard  
 _A cost-effective Security Information and Event Management (SIEM) system with real-time threat detection, built with React, Node.js, and Azure._
-  
+
+# System Diagram
+![System Diagram](./web-app/client/assets/system-diagram.jpg)
 
 ## Features
 - **Real-time Log Monitoring**: Ingest and analyze system/auth logs.  
