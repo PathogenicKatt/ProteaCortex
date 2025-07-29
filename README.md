@@ -19,6 +19,36 @@ _A cost-effective Security Information and Event Management (SIEM) system with r
 | **Hosting**         | Azure Static Web Apps, App Service |  
 | **CI/CD**           | GitHub Actions, Azure DevOps    |  
 
+## Initial Setup Guide
+### Frontend Setup:
+1. **Navigate to frontend directory and initialize project:**
+```bash
+cd frontend
+npm create vite@latest . -- --template react
+```
+2. **When prompted:**
+- Select "Ignore files and continue" (if existing files)
+- Choose "React" framework
+- Select "JavaScript + SWC" variant
+- When asked about React Router v7, type y to install
+3. **Install dependencies:**
+```bash
+npm install
+```
+
+### Backend Setup
+```bash
+cd backend
+npm install
+npm start
+```
+
+### Development
+```bash
+# In frontend directory:
+npm run dev  # Runs on port 3000
+```
+
 ## Note
 - The README.md will be continuously being updated.
 
