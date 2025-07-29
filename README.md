@@ -19,7 +19,6 @@ _A cost-effective Security Information and Event Management (SIEM) system with r
 | **Hosting**         | Azure Static Web Apps, App Service |  
 | **CI/CD**           | GitHub Actions, Azure DevOps    |  
 
-
 ## Note
 - The README.md will be continuously being updated.
 
