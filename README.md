@@ -29,12 +29,8 @@ npm create vite@latest . -- --template react
 2. **When prompted:**
 - Select "Ignore files and continue" (if existing files)
 - Choose "React" framework
-- Select "JavaScript + SWC" variant
-- When asked about React Router v7, type y to install
-3. **Install dependencies:**
-```bash
-npm install
-```
+- Select "React Router v7" variant
+- When asked about dependencies with npm, type y to install
 
 ### Backend Setup
 ```bash
