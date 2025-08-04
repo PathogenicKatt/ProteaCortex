@@ -25,6 +25,7 @@ _A cost-effective Security Information and Event Management (SIEM) system with r
 ```bash
 cd frontend
 npm create vite@latest . -- --template react
+npm run build
 ```
 2. **When prompted:**
 - Select "Ignore files and continue" (if existing files)
